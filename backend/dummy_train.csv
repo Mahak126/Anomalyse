@@ -1,0 +1,1001 @@
+Timestamp,UserID,Amount,City,Category,Fraud_Type
+2025-01-11 23:15:00,1034,161.81,New York,Grocery,0
+2025-01-01 14:20:00,1045,41.47,New York,Entertainment,0
+2025-02-23 08:20:00,1006,168.65,Mumbai,Entertainment,0
+2025-02-08 02:46:00,1037,8.35,Paris,Utilities,0
+2025-01-05 08:25:00,1033,225.21,Paris,Grocery,3
+2025-02-27 05:06:00,1022,79.32,Bangalore,Utilities,2
+2025-01-26 19:54:00,1021,169.99,Bangalore,Grocery,0
+2025-03-02 18:18:00,1006,60.21,New York,Utilities,0
+2025-01-31 15:31:00,1006,103.16,Bangalore,Entertainment,0
+2025-02-11 20:23:00,1048,74.74,Mumbai,Entertainment,3
+2025-01-12 03:03:00,1004,131.52,Paris,Electronics,0
+2025-01-29 12:50:00,1030,8.52,Delhi,Travel,0
+2025-02-16 16:21:00,1011,6.23,Paris,Utilities,0
+2025-02-15 00:20:00,1030,28.38,Paris,Electronics,0
+2025-01-01 12:49:00,1031,17.38,Mumbai,Travel,0
+2025-02-11 11:35:00,1024,205.4,Bangalore,Utilities,0
+2025-02-13 17:15:00,1009,24.75,Delhi,Grocery,0
+2025-02-15 02:05:00,1003,372.41,Mumbai,Travel,0
+2025-02-17 04:49:00,1031,41.08,New York,Entertainment,0
+2025-01-04 16:31:00,1040,20.1,Tokyo,Electronics,0
+2025-02-27 17:04:00,1037,155.92,Paris,Travel,0
+2025-02-07 07:07:00,1036,107.5,Tokyo,Travel,0
+2025-03-01 05:45:00,1024,68.95,Mumbai,Entertainment,0
+2025-01-20 22:13:00,1031,81.05,Mumbai,Utilities,0
+2025-02-19 22:52:00,1006,127.01,Mumbai,Grocery,0
+2025-03-06 14:16:00,1002,25.94,Tokyo,Entertainment,0
+2025-01-18 19:38:00,1020,560.86,Mumbai,Grocery,1
+2025-02-28 15:58:00,1028,368.06,New York,Utilities,2
+2025-01-13 19:11:00,1011,105.08,Mumbai,Travel,0
+2025-01-02 21:47:00,1004,22.26,London,Grocery,0
+2025-02-11 01:50:00,1015,114.01,Bangalore,Electronics,0
+2025-02-15 15:25:00,1006,7.49,Tokyo,Electronics,0
+2025-02-28 18:54:00,1049,3.11,London,Entertainment,0
+2025-01-25 20:13:00,1030,29.8,Mumbai,Utilities,0
+2025-02-16 19:55:00,1038,62.11,New York,Entertainment,0
+2025-02-09 12:06:00,1002,202.7,Paris,Entertainment,0
+2025-02-16 09:23:00,1015,129.89,Delhi,Entertainment,0
+2025-01-22 21:51:00,1011,135.75,Bangalore,Electronics,0
+2025-01-08 21:54:00,1008,55.42,Delhi,Electronics,0
+2025-02-17 23:32:00,1026,42.45,Mumbai,Entertainment,0
+2025-01-03 16:50:00,1045,46.37,Bangalore,Electronics,0
+2025-01-29 21:26:00,1044,439.41,Bangalore,Utilities,0
+2025-03-08 20:36:00,1005,4.09,New York,Entertainment,0
+2025-02-25 13:58:00,1006,201.76,Bangalore,Electronics,0
+2025-03-02 15:13:00,1026,86.44,Tokyo,Grocery,0
+2025-01-08 09:07:00,1004,57.73,London,Entertainment,0
+2025-01-07 02:32:00,1019,129.19,London,Entertainment,0
+2025-02-21 08:49:00,1020,66.68,London,Utilities,0
+2025-01-30 20:41:00,1033,206.69,Tokyo,Travel,0
+2025-02-23 03:52:00,1020,230.96,Delhi,Travel,0
+2025-01-17 14:17:00,1049,54.77,New York,Utilities,0
+2025-02-17 07:48:00,1012,32.41,Bangalore,Utilities,0
+2025-01-17 07:23:00,1047,89.73,Tokyo,Utilities,0
+2025-02-03 17:15:00,1001,243.46,London,Travel,0
+2025-01-12 21:59:00,1026,23.66,Mumbai,Utilities,0
+2025-02-25 14:37:00,1014,97.54,Paris,Electronics,0
+2025-01-25 22:40:00,1038,99.85,Bangalore,Entertainment,0
+2025-03-05 22:27:00,1037,132.09,Tokyo,Entertainment,2
+2025-02-16 14:41:00,1011,14.11,Tokyo,Grocery,0
+2025-02-18 05:59:00,1036,125.82,New York,Grocery,0
+2025-03-04 03:15:00,1013,239.73,New York,Entertainment,0
+2025-01-14 12:17:00,1043,19.81,Tokyo,Electronics,0
+2025-02-16 05:17:00,1003,27.12,London,Travel,2
+2025-02-23 14:29:00,1033,355.42,Paris,Travel,0
+2025-02-24 19:53:00,1006,19.96,Bangalore,Electronics,0
+2025-02-06 19:15:00,1010,192.68,New York,Travel,0
+2025-01-29 07:17:00,1005,67.78,Bangalore,Utilities,0
+2025-01-07 17:32:00,1023,28.4,London,Entertainment,0
+2025-02-01 18:38:00,1010,204.6,Bangalore,Entertainment,0
+2025-02-20 06:49:00,1044,58.93,Mumbai,Electronics,0
+2025-02-19 10:51:00,1002,72.32,New York,Travel,0
+2025-02-15 14:57:00,1013,44.51,London,Grocery,0
+2025-01-26 17:45:00,1040,89.88,London,Grocery,3
+2025-03-05 22:53:00,1002,17.86,Paris,Travel,0
+2025-03-10 22:59:00,1020,49.61,Paris,Grocery,0
+2025-01-23 15:26:00,1001,348.72,Mumbai,Electronics,0
+2025-01-09 00:14:00,1037,29.86,London,Electronics,0
+2025-03-07 17:43:00,1009,106.93,Delhi,Travel,0
+2025-01-29 01:17:00,1017,39.33,London,Grocery,0
+2025-03-05 11:07:00,1009,148.49,Paris,Electronics,0
+2025-01-01 16:56:00,1011,14.03,Delhi,Electronics,0
+2025-03-04 08:29:00,1015,350.06,New York,Utilities,0
+2025-02-08 14:31:00,1024,60.48,New York,Utilities,2
+2025-03-04 08:52:00,1038,26.93,Bangalore,Electronics,0
+2025-01-17 03:27:00,1035,7.63,Tokyo,Travel,0
+2025-01-17 21:00:00,1030,18.6,Paris,Entertainment,0
+2025-02-21 10:25:00,1031,73.35,Tokyo,Entertainment,0
+2025-02-27 11:58:00,1049,41.1,Delhi,Electronics,0
+2025-01-07 10:28:00,1005,176.54,Paris,Electronics,0
+2025-03-02 06:47:00,1044,56.37,Mumbai,Electronics,0
+2025-01-09 11:05:00,1014,28.6,London,Travel,0
+2025-02-14 05:44:00,1011,96.01,Mumbai,Utilities,0
+2025-03-02 06:19:00,1009,122.68,Delhi,Electronics,0
+2025-01-28 03:39:00,1034,18.28,Paris,Electronics,0
+2025-01-06 22:51:00,1012,18.35,Delhi,Grocery,0
+2025-01-27 10:04:00,1035,3.74,London,Travel,0
+2025-02-05 13:34:00,1035,133.33,New York,Electronics,0
+2025-02-12 12:28:00,1001,109.01,New York,Grocery,0
+2025-02-04 00:24:00,1040,64.37,Delhi,Entertainment,0
+2025-01-29 07:34:00,1022,185.9,Tokyo,Electronics,0
+2025-01-02 18:48:00,1029,163.82,Paris,Electronics,0
+2025-02-13 11:12:00,1008,88.03,Paris,Grocery,0
+2025-02-16 22:03:00,1011,202.7,New York,Travel,0
+2025-01-02 20:55:00,1041,23.05,Bangalore,Electronics,2
+2025-02-03 11:10:00,1037,11.87,Mumbai,Entertainment,3
+2025-01-04 15:38:00,1014,31.44,Bangalore,Electronics,0
+2025-03-02 18:58:00,1030,5.88,London,Entertainment,0
+2025-01-28 10:24:00,1035,75.75,Mumbai,Utilities,0
+2025-01-24 00:39:00,1021,275.84,Mumbai,Utilities,0
+2025-01-10 17:06:00,1037,4.01,Delhi,Entertainment,0
+2025-02-12 22:58:00,1005,13.02,New York,Travel,0
+2025-01-09 19:06:00,1019,60.18,Bangalore,Electronics,0
+2025-01-27 20:20:00,1014,271.62,Bangalore,Electronics,3
+2025-01-03 11:21:00,1026,38.0,New York,Utilities,0
+2025-01-19 15:34:00,1004,70.77,Bangalore,Entertainment,0
+2025-02-14 19:05:00,1025,4.25,New York,Electronics,0
+2025-02-06 06:51:00,1045,16.06,Delhi,Electronics,0
+2025-01-16 17:42:00,1042,431.48,Tokyo,Travel,0
+2025-01-06 19:52:00,1025,335.58,Mumbai,Grocery,2
+2025-01-22 04:55:00,1018,0.5,Delhi,Utilities,0
+2025-02-24 14:03:00,1040,303.26,Paris,Utilities,0
+2025-02-06 06:56:00,1008,101.92,London,Grocery,0
+2025-03-03 21:35:00,1039,202.43,Tokyo,Electronics,0
+2025-01-25 11:02:00,1040,60.65,Paris,Travel,0
+2025-02-23 17:33:00,1014,72.48,Mumbai,Travel,0
+2025-02-25 06:15:00,1032,67.11,Bangalore,Utilities,0
+2025-03-08 21:54:00,1038,109.92,New York,Travel,0
+2025-02-28 18:51:00,1033,15.04,Mumbai,Grocery,0
+2025-02-13 23:35:00,1023,3.04,Delhi,Electronics,0
+2025-01-08 14:45:00,1015,36.81,London,Grocery,0
+2025-01-18 00:58:00,1033,121.97,Delhi,Entertainment,0
+2025-02-19 00:32:00,1025,22.55,Tokyo,Utilities,0
+2025-03-10 01:38:00,1017,111.91,Tokyo,Travel,0
+2025-01-06 15:10:00,1033,350.36,London,Entertainment,0
+2025-02-25 01:49:00,1047,9.86,Paris,Travel,0
+2025-01-19 22:26:00,1002,111.66,Paris,Electronics,0
+2025-02-06 19:12:00,1014,58.65,Tokyo,Electronics,3
+2025-02-27 14:28:00,1040,202.6,Tokyo,Electronics,0
+2025-03-10 14:46:00,1040,19.5,Bangalore,Travel,0
+2025-01-05 19:10:00,1039,117.97,New York,Entertainment,0
+2025-03-05 04:22:00,1006,182.09,Bangalore,Electronics,0
+2025-01-01 03:26:00,1006,289.34,Bangalore,Entertainment,0
+2025-03-02 10:54:00,1003,114.96,Paris,Travel,0
+2025-03-03 00:57:00,1007,68.75,London,Entertainment,0
+2025-01-17 06:19:00,1008,96.19,Paris,Travel,0
+2025-02-05 03:56:00,1042,203.18,New York,Travel,0
+2025-02-04 17:35:00,1015,84.54,Delhi,Utilities,2
+2025-02-07 16:28:00,1047,3.09,Tokyo,Travel,0
+2025-03-03 01:39:00,1029,267.29,Tokyo,Travel,0
+2025-01-13 14:21:00,1033,116.97,New York,Grocery,0
+2025-02-25 19:16:00,1030,112.86,Bangalore,Electronics,0
+2025-02-19 22:30:00,1039,24.29,London,Utilities,3
+2025-02-08 22:04:00,1027,107.55,Tokyo,Utilities,0
+2025-02-16 16:14:00,1036,50.07,Mumbai,Utilities,0
+2025-01-24 11:47:00,1029,105.34,Bangalore,Grocery,0
+2025-02-08 18:20:00,1038,11.27,Tokyo,Travel,0
+2025-02-13 11:43:00,1033,107.25,Mumbai,Electronics,0
+2025-02-26 18:14:00,1037,744.17,New York,Entertainment,1
+2025-02-22 09:30:00,1027,4.94,New York,Travel,0
+2025-03-06 21:06:00,1033,377.99,Bangalore,Grocery,0
+2025-01-16 11:39:00,1004,52.24,Tokyo,Travel,0
+2025-01-31 06:25:00,1022,204.6,Paris,Travel,3
+2025-02-14 11:24:00,1002,152.5,Mumbai,Grocery,3
+2025-01-30 13:17:00,1010,83.71,London,Utilities,0
+2025-02-04 02:00:00,1005,134.11,Tokyo,Utilities,0
+2025-01-02 20:53:00,1010,210.8,London,Electronics,0
+2025-03-07 23:23:00,1033,51.78,Tokyo,Electronics,0
+2025-03-08 03:39:00,1038,39.61,Paris,Utilities,0
+2025-02-18 00:43:00,1013,110.14,Paris,Entertainment,0
+2025-01-19 00:19:00,1031,164.95,Bangalore,Travel,0
+2025-02-03 23:25:00,1047,143.67,Bangalore,Entertainment,0
+2025-01-30 19:41:00,1036,159.86,Paris,Travel,0
+2025-01-16 03:54:00,1045,57.2,Delhi,Utilities,0
+2025-01-13 12:47:00,1024,170.28,Paris,Electronics,0
+2025-01-19 03:05:00,1015,12.81,New York,Electronics,0
+2025-02-22 14:46:00,1029,78.63,New York,Entertainment,0
+2025-01-11 21:47:00,1008,0.58,Delhi,Electronics,2
+2025-01-16 06:16:00,1005,39.24,Mumbai,Utilities,0
+2025-01-31 17:42:00,1029,45.64,London,Entertainment,0
+2025-01-17 12:16:00,1047,50.45,Tokyo,Travel,0
+2025-01-21 21:20:00,1004,118.9,Tokyo,Electronics,0
+2025-02-16 10:02:00,1012,49.19,Delhi,Grocery,0
+2025-02-12 14:53:00,1045,59.55,New York,Electronics,0
+2025-01-05 16:56:00,1002,27.12,Bangalore,Travel,3
+2025-03-06 10:27:00,1027,46.72,Tokyo,Entertainment,0
+2025-02-08 04:56:00,1031,25.78,New York,Travel,2
+2025-01-07 13:54:00,1036,7.6,Mumbai,Grocery,0
+2025-02-10 07:33:00,1036,92.49,London,Utilities,0
+2025-01-16 05:59:00,1026,110.33,Mumbai,Electronics,0
+2025-01-04 20:10:00,1043,96.62,Delhi,Entertainment,0
+2025-03-07 20:56:00,1027,62.27,Paris,Utilities,0
+2025-01-03 14:28:00,1005,47.77,Paris,Travel,0
+2025-03-09 17:04:00,1020,199.02,Paris,Entertainment,0
+2025-03-10 02:58:00,1011,73.21,Mumbai,Utilities,0
+2025-01-10 09:45:00,1010,65.24,Tokyo,Entertainment,3
+2025-02-15 23:19:00,1040,2.6,London,Grocery,0
+2025-01-25 03:26:00,1038,41.74,Paris,Grocery,0
+2025-02-21 01:30:00,1006,47.84,Delhi,Electronics,0
+2025-03-06 23:17:00,1008,50.89,Delhi,Electronics,0
+2025-02-12 10:07:00,1023,86.79,Paris,Grocery,0
+2025-03-08 13:19:00,1047,76.27,Paris,Entertainment,0
+2025-02-17 19:20:00,1026,93.63,London,Grocery,0
+2025-02-07 18:24:00,1046,144.77,Paris,Electronics,0
+2025-02-05 10:05:00,1043,167.66,London,Grocery,0
+2025-02-02 08:16:00,1012,126.63,Delhi,Grocery,0
+2025-01-28 07:53:00,1026,311.28,Paris,Entertainment,0
+2025-02-13 01:23:00,1013,1.84,Mumbai,Utilities,0
+2025-02-27 18:51:00,1040,21.79,Bangalore,Electronics,0
+2025-02-06 14:53:00,1018,0.76,Mumbai,Entertainment,0
+2025-02-15 08:38:00,1025,104.26,Delhi,Grocery,2
+2025-03-04 03:14:00,1033,228.31,London,Grocery,3
+2025-01-17 10:24:00,1047,27.9,Mumbai,Utilities,0
+2025-02-16 15:32:00,1040,261.78,London,Electronics,0
+2025-03-01 10:56:00,1043,6.22,Mumbai,Electronics,0
+2025-03-06 18:24:00,1012,272.47,Mumbai,Travel,0
+2025-01-19 13:36:00,1044,43.33,London,Electronics,0
+2025-03-07 10:09:00,1036,10.69,Tokyo,Utilities,0
+2025-01-01 14:14:00,1048,66.53,Mumbai,Travel,2
+2025-03-04 13:24:00,1004,29.68,Paris,Travel,0
+2025-01-27 19:43:00,1005,33.53,Bangalore,Grocery,0
+2025-01-06 03:12:00,1037,36.71,Delhi,Grocery,0
+2025-02-08 16:00:00,1008,162.47,Tokyo,Electronics,0
+2025-02-02 10:37:00,1042,77.47,London,Travel,0
+2025-03-02 11:32:00,1049,37.3,Tokyo,Grocery,0
+2025-02-05 07:39:00,1028,94.25,New York,Utilities,0
+2025-01-19 06:29:00,1031,125.93,New York,Grocery,0
+2025-03-02 17:35:00,1009,31.83,Mumbai,Grocery,0
+2025-02-14 06:14:00,1029,53.37,Mumbai,Travel,2
+2025-02-18 22:27:00,1014,13.0,Paris,Travel,0
+2025-02-06 13:42:00,1040,19.99,Bangalore,Entertainment,0
+2025-03-10 09:46:00,1041,114.29,Delhi,Utilities,0
+2025-01-09 19:28:00,1022,20.02,Tokyo,Travel,0
+2025-01-18 14:22:00,1011,74.48,New York,Electronics,0
+2025-01-26 19:17:00,1023,123.46,Mumbai,Utilities,0
+2025-02-17 03:03:00,1001,11.3,Delhi,Utilities,0
+2025-02-06 04:03:00,1046,83.77,Tokyo,Travel,0
+2025-02-15 15:33:00,1037,29.65,Mumbai,Utilities,0
+2025-03-03 20:05:00,1021,329.49,Mumbai,Travel,0
+2025-01-25 02:18:00,1026,66.08,New York,Grocery,0
+2025-02-25 23:43:00,1046,163.99,New York,Entertainment,0
+2025-01-16 17:51:00,1036,79.9,Mumbai,Grocery,0
+2025-01-18 11:44:00,1023,4.44,London,Travel,0
+2025-03-06 20:24:00,1001,100.28,Mumbai,Travel,0
+2025-01-30 05:47:00,1040,302.42,Delhi,Grocery,2
+2025-03-01 20:42:00,1015,92.03,Mumbai,Electronics,0
+2025-02-05 21:03:00,1021,171.03,Paris,Electronics,0
+2025-01-11 21:48:00,1047,215.59,Bangalore,Electronics,2
+2025-03-05 19:46:00,1009,25.89,Paris,Travel,0
+2025-02-04 14:11:00,1009,23.83,Paris,Utilities,0
+2025-01-02 22:51:00,1010,94.41,London,Travel,3
+2025-02-09 01:30:00,1026,52.94,London,Utilities,0
+2025-02-20 01:22:00,1041,183.17,Mumbai,Grocery,2
+2025-01-25 03:14:00,1035,230.28,Paris,Entertainment,0
+2025-03-08 11:42:00,1025,43.61,London,Utilities,0
+2025-01-08 22:11:00,1026,27.03,New York,Electronics,0
+2025-01-03 00:31:00,1011,151.65,Mumbai,Travel,0
+2025-02-16 17:10:00,1038,32.13,Delhi,Grocery,0
+2025-02-28 04:03:00,1002,172.94,Bangalore,Electronics,0
+2025-01-07 00:40:00,1007,55.12,Tokyo,Grocery,0
+2025-02-28 22:56:00,1018,110.13,Mumbai,Entertainment,0
+2025-02-28 05:59:00,1027,10.04,Tokyo,Travel,0
+2025-02-19 12:15:00,1034,97.78,Paris,Travel,0
+2025-03-03 12:54:00,1027,60.11,Bangalore,Entertainment,0
+2025-01-08 17:11:00,1017,88.34,Tokyo,Travel,0
+2025-01-27 01:04:00,1043,18.39,Paris,Utilities,0
+2025-01-02 06:02:00,1044,133.51,New York,Grocery,0
+2025-01-06 15:55:00,1024,198.63,Tokyo,Electronics,0
+2025-02-21 03:36:00,1025,24.43,Bangalore,Entertainment,0
+2025-01-28 08:24:00,1007,10.06,Mumbai,Utilities,2
+2025-02-02 19:34:00,1006,2.39,Paris,Electronics,0
+2025-01-16 05:18:00,1024,102.71,Mumbai,Electronics,3
+2025-03-01 17:01:00,1033,93.42,Bangalore,Entertainment,0
+2025-02-12 03:53:00,1049,79.12,London,Utilities,2
+2025-01-22 01:06:00,1029,26.39,Paris,Electronics,0
+2025-01-12 13:26:00,1043,49.58,Tokyo,Electronics,0
+2025-02-02 12:43:00,1022,90.26,Paris,Utilities,0
+2025-03-09 02:01:00,1026,68.67,Mumbai,Travel,0
+2025-03-05 00:15:00,1028,440.51,New York,Electronics,0
+2025-01-12 08:51:00,1021,14.67,Paris,Grocery,0
+2025-02-23 17:31:00,1049,118.79,Tokyo,Utilities,0
+2025-01-02 10:09:00,1007,51.8,London,Electronics,0
+2025-01-22 22:56:00,1017,55.9,Delhi,Entertainment,3
+2025-01-15 12:52:00,1020,126.44,New York,Grocery,3
+2025-01-21 17:35:00,1041,117.91,London,Electronics,0
+2025-02-12 15:54:00,1049,473.94,Paris,Grocery,0
+2025-02-20 11:34:00,1020,13.74,Mumbai,Grocery,0
+2025-01-30 20:56:00,1022,10.99,Bangalore,Travel,3
+2025-01-06 03:20:00,1028,128.86,Mumbai,Grocery,2
+2025-01-30 14:42:00,1040,86.37,Tokyo,Travel,0
+2025-01-11 12:31:00,1049,32.04,Mumbai,Utilities,0
+2025-02-05 16:47:00,1007,8.28,New York,Travel,0
+2025-02-16 07:30:00,1001,8.96,Mumbai,Entertainment,0
+2025-01-04 02:59:00,1032,224.61,Tokyo,Electronics,2
+2025-01-05 08:55:00,1013,21.3,Delhi,Utilities,0
+2025-02-11 00:00:00,1030,39.06,Paris,Utilities,0
+2025-01-09 11:03:00,1023,25.7,Bangalore,Entertainment,0
+2025-01-21 08:19:00,1019,43.85,Paris,Travel,0
+2025-01-09 22:34:00,1032,7.2,Mumbai,Electronics,0
+2025-01-23 17:11:00,1030,73.2,London,Travel,2
+2025-01-04 20:19:00,1029,7.0,Paris,Grocery,0
+2025-02-07 01:11:00,1049,161.12,Delhi,Travel,0
+2025-02-12 13:07:00,1045,26.62,Mumbai,Utilities,0
+2025-02-03 13:54:00,1029,77.66,Bangalore,Electronics,0
+2025-01-02 18:37:00,1030,212.09,Tokyo,Travel,0
+2025-01-27 15:20:00,1016,105.23,Delhi,Electronics,0
+2025-02-26 22:58:00,1040,76.13,Mumbai,Electronics,0
+2025-01-02 12:40:00,1019,39.21,Delhi,Grocery,0
+2025-02-17 13:37:00,1018,40.5,Paris,Grocery,2
+2025-02-02 14:55:00,1001,110.71,Bangalore,Utilities,0
+2025-01-15 19:57:00,1014,513.95,Tokyo,Entertainment,1
+2025-02-23 19:45:00,1047,108.42,Mumbai,Electronics,0
+2025-01-02 23:49:00,1002,81.6,New York,Entertainment,0
+2025-02-12 10:55:00,1028,131.17,Tokyo,Utilities,0
+2025-02-04 19:08:00,1049,62.59,New York,Electronics,0
+2025-03-07 09:39:00,1030,6.2,Delhi,Electronics,0
+2025-03-04 16:32:00,1038,82.62,London,Entertainment,0
+2025-01-27 17:07:00,1004,316.12,Tokyo,Travel,0
+2025-01-17 04:48:00,1001,19.27,Delhi,Grocery,0
+2025-03-05 11:32:00,1008,117.12,New York,Travel,0
+2025-03-02 07:11:00,1029,22.43,Paris,Entertainment,0
+2025-01-03 18:27:00,1039,76.75,Paris,Grocery,0
+2025-02-10 21:11:00,1003,10.17,London,Travel,0
+2025-01-16 13:19:00,1032,59.85,Tokyo,Grocery,0
+2025-02-02 02:14:00,1010,141.13,Tokyo,Electronics,0
+2025-03-11 02:42:00,1010,42.71,Tokyo,Travel,0
+2025-03-02 00:16:00,1019,109.34,Delhi,Grocery,0
+2025-02-18 19:11:00,1046,158.69,Bangalore,Grocery,0
+2025-01-31 14:24:00,1034,261.97,Bangalore,Grocery,0
+2025-02-18 16:11:00,1033,26.74,London,Travel,0
+2025-01-29 08:18:00,1023,50.97,Tokyo,Utilities,0
+2025-02-01 14:45:00,1028,16.54,Delhi,Travel,0
+2025-01-14 18:30:00,1032,489.07,Paris,Entertainment,0
+2025-01-13 02:29:00,1007,261.73,New York,Travel,0
+2025-01-05 18:53:00,1029,77.64,Delhi,Grocery,0
+2025-02-25 11:49:00,1008,184.54,Bangalore,Electronics,0
+2025-02-02 20:53:00,1001,73.6,Bangalore,Travel,0
+2025-01-03 09:16:00,1003,97.71,Paris,Travel,0
+2025-02-21 14:10:00,1024,9.33,Paris,Grocery,0
+2025-02-22 22:13:00,1023,140.76,New York,Electronics,0
+2025-01-05 02:15:00,1008,13.66,Paris,Electronics,0
+2025-01-14 16:58:00,1047,174.91,London,Entertainment,0
+2025-01-22 08:26:00,1037,152.34,New York,Travel,0
+2025-02-04 06:57:00,1003,123.36,Paris,Electronics,0
+2025-02-03 14:44:00,1033,3.68,Mumbai,Electronics,0
+2025-02-07 12:45:00,1028,36.12,Delhi,Utilities,0
+2025-03-09 23:28:00,1047,30.53,Paris,Utilities,0
+2025-01-28 15:10:00,1008,44.65,London,Electronics,0
+2025-01-04 21:20:00,1034,9.17,Tokyo,Entertainment,0
+2025-03-07 17:40:00,1035,276.4,Paris,Electronics,0
+2025-03-06 16:59:00,1032,80.7,Bangalore,Grocery,0
+2025-01-29 07:24:00,1024,36.46,Bangalore,Travel,0
+2025-02-21 18:23:00,1014,50.58,Bangalore,Entertainment,0
+2025-02-01 17:54:00,1032,59.28,Tokyo,Grocery,0
+2025-02-09 11:15:00,1046,91.78,Bangalore,Entertainment,0
+2025-02-21 05:04:00,1043,72.5,Mumbai,Grocery,2
+2025-02-09 05:31:00,1016,251.82,Paris,Travel,0
+2025-01-13 21:49:00,1004,68.71,Bangalore,Travel,0
+2025-01-31 04:44:00,1037,484.83,New York,Utilities,0
+2025-02-27 15:09:00,1021,190.67,Tokyo,Grocery,0
+2025-01-26 03:32:00,1014,23.38,Mumbai,Utilities,3
+2025-01-31 05:25:00,1031,266.78,New York,Grocery,0
+2025-02-02 18:42:00,1048,12.37,New York,Utilities,0
+2025-01-23 15:55:00,1018,170.07,New York,Travel,0
+2025-02-13 21:28:00,1007,47.9,New York,Entertainment,0
+2025-01-24 11:48:00,1010,210.35,Paris,Utilities,0
+2025-01-13 23:51:00,1007,202.54,Bangalore,Grocery,0
+2025-01-03 09:00:00,1033,163.95,Delhi,Grocery,3
+2025-03-09 04:32:00,1023,156.08,Paris,Travel,0
+2025-01-01 05:01:00,1021,36.34,Paris,Grocery,0
+2025-02-01 09:56:00,1019,8.44,Mumbai,Electronics,3
+2025-02-15 23:55:00,1048,51.58,Mumbai,Entertainment,2
+2025-02-07 16:00:00,1019,19.06,Bangalore,Utilities,0
+2025-02-15 15:26:00,1036,118.73,Delhi,Entertainment,0
+2025-01-08 06:52:00,1029,42.48,Mumbai,Travel,0
+2025-01-05 05:42:00,1018,371.36,Bangalore,Utilities,3
+2025-02-04 22:56:00,1002,102.44,Bangalore,Utilities,0
+2025-03-01 05:54:00,1001,172.87,London,Electronics,0
+2025-01-19 12:01:00,1047,14.22,Delhi,Travel,0
+2025-01-25 00:24:00,1005,198.06,Mumbai,Grocery,0
+2025-01-23 17:45:00,1020,256.08,Delhi,Electronics,0
+2025-01-17 00:53:00,1011,66.76,Paris,Electronics,0
+2025-02-15 21:45:00,1042,93.2,Paris,Entertainment,0
+2025-02-06 00:45:00,1002,144.74,Delhi,Entertainment,0
+2025-01-26 10:31:00,1003,19.22,London,Entertainment,0
+2025-02-20 16:31:00,1023,69.83,London,Electronics,0
+2025-01-03 18:54:00,1012,50.86,Delhi,Grocery,0
+2025-01-08 16:53:00,1020,15.83,Mumbai,Utilities,0
+2025-01-13 13:10:00,1005,45.81,Tokyo,Entertainment,0
+2025-01-25 20:17:00,1037,7.06,London,Grocery,0
+2025-02-09 13:18:00,1038,2.62,New York,Travel,0
+2025-02-26 23:54:00,1030,14.52,Paris,Entertainment,0
+2025-01-08 10:49:00,1009,330.0,Delhi,Utilities,0
+2025-03-11 05:53:00,1034,79.75,New York,Travel,0
+2025-02-01 06:17:00,1044,337.62,Delhi,Travel,0
+2025-02-16 01:20:00,1035,56.65,Bangalore,Utilities,0
+2025-01-20 06:31:00,1022,37.37,Paris,Entertainment,0
+2025-02-24 05:09:00,1044,70.55,Paris,Electronics,0
+2025-02-08 00:28:00,1024,57.89,London,Utilities,0
+2025-01-05 00:41:00,1017,11.17,London,Utilities,0
+2025-01-14 07:50:00,1010,102.39,New York,Utilities,0
+2025-02-04 12:09:00,1030,24.34,Bangalore,Travel,0
+2025-02-05 09:53:00,1046,96.65,Delhi,Grocery,0
+2025-01-21 13:12:00,1023,105.04,Bangalore,Electronics,0
+2025-01-08 09:27:00,1032,16.49,Paris,Entertainment,0
+2025-01-07 01:16:00,1017,6.33,New York,Entertainment,0
+2025-03-03 17:31:00,1017,151.76,Tokyo,Grocery,0
+2025-03-02 19:05:00,1014,61.58,New York,Utilities,0
+2025-03-04 10:32:00,1009,5.99,Mumbai,Electronics,0
+2025-02-18 19:56:00,1040,527.19,New York,Entertainment,1
+2025-01-02 15:28:00,1002,5.95,Bangalore,Entertainment,0
+2025-02-23 20:55:00,1045,118.76,Mumbai,Utilities,0
+2025-01-05 14:55:00,1025,411.53,Mumbai,Grocery,0
+2025-02-18 15:11:00,1039,27.34,Mumbai,Electronics,0
+2025-02-23 01:49:00,1009,15.34,Tokyo,Grocery,0
+2025-03-05 06:03:00,1022,12.94,New York,Grocery,0
+2025-03-03 01:22:00,1043,36.14,Bangalore,Electronics,0
+2025-02-08 17:26:00,1046,10.65,New York,Electronics,0
+2025-01-10 07:23:00,1004,117.82,Tokyo,Entertainment,0
+2025-01-23 06:57:00,1026,6.43,Paris,Entertainment,0
+2025-02-24 14:57:00,1029,71.22,London,Electronics,0
+2025-01-08 14:46:00,1045,571.29,Bangalore,Travel,1
+2025-03-10 20:37:00,1034,168.18,Bangalore,Entertainment,0
+2025-03-07 04:08:00,1023,95.51,New York,Travel,0
+2025-02-06 18:01:00,1037,36.56,London,Electronics,0
+2025-02-04 12:46:00,1011,97.79,Delhi,Entertainment,0
+2025-02-04 22:20:00,1006,74.87,Delhi,Grocery,0
+2025-01-16 17:57:00,1018,55.53,Tokyo,Electronics,0
+2025-02-08 14:49:00,1021,14.01,Delhi,Utilities,0
+2025-03-09 05:45:00,1042,217.69,Bangalore,Travel,0
+2025-02-09 08:21:00,1036,59.74,Delhi,Electronics,0
+2025-01-22 13:04:00,1041,21.64,Paris,Electronics,0
+2025-02-18 19:53:00,1038,45.85,Paris,Entertainment,0
+2025-02-06 19:26:00,1034,53.47,Paris,Entertainment,0
+2025-03-08 04:05:00,1017,175.76,Delhi,Entertainment,0
+2025-01-11 15:38:00,1037,132.28,Tokyo,Utilities,0
+2025-02-17 05:47:00,1025,146.67,Mumbai,Entertainment,0
+2025-03-06 10:12:00,1038,1.11,Mumbai,Electronics,0
+2025-02-25 15:35:00,1012,53.81,London,Entertainment,0
+2025-01-14 13:08:00,1023,65.65,Mumbai,Grocery,0
+2025-01-03 02:51:00,1042,1.94,Mumbai,Entertainment,0
+2025-02-03 20:27:00,1022,30.09,Paris,Utilities,0
+2025-03-02 12:22:00,1021,142.83,Paris,Grocery,0
+2025-03-02 13:55:00,1027,14.75,Delhi,Electronics,0
+2025-02-07 12:21:00,1031,76.64,London,Electronics,0
+2025-02-16 02:52:00,1006,24.23,New York,Travel,0
+2025-02-10 12:15:00,1027,1.22,Bangalore,Grocery,0
+2025-02-09 00:19:00,1040,27.6,London,Travel,2
+2025-01-23 06:53:00,1034,372.45,London,Grocery,0
+2025-02-18 09:18:00,1012,161.72,Tokyo,Grocery,0
+2025-02-26 01:38:00,1045,320.83,Delhi,Utilities,0
+2025-01-28 14:14:00,1007,66.91,Tokyo,Travel,0
+2025-02-20 10:15:00,1010,11.62,London,Utilities,0
+2025-02-21 01:23:00,1045,79.4,London,Grocery,0
+2025-03-07 14:36:00,1017,60.58,London,Electronics,0
+2025-01-12 19:39:00,1026,186.02,Mumbai,Grocery,0
+2025-02-28 01:33:00,1021,10.32,Bangalore,Utilities,0
+2025-03-05 17:54:00,1028,66.99,Bangalore,Travel,0
+2025-03-02 04:32:00,1046,16.26,Tokyo,Travel,0
+2025-02-21 06:47:00,1002,39.26,London,Utilities,0
+2025-02-27 11:10:00,1043,133.7,Bangalore,Travel,3
+2025-02-25 07:14:00,1001,64.63,Paris,Entertainment,0
+2025-01-20 14:51:00,1036,47.14,Bangalore,Electronics,0
+2025-01-19 00:25:00,1026,50.17,Delhi,Electronics,0
+2025-03-05 02:12:00,1029,61.52,Delhi,Electronics,3
+2025-01-23 08:57:00,1021,153.72,Bangalore,Travel,0
+2025-01-06 18:28:00,1011,222.64,Paris,Travel,0
+2025-01-05 03:09:00,1040,310.86,Delhi,Grocery,0
+2025-02-06 02:30:00,1011,154.6,Mumbai,Grocery,0
+2025-01-01 19:10:00,1036,37.89,Bangalore,Electronics,0
+2025-03-04 03:20:00,1049,116.52,Mumbai,Entertainment,0
+2025-02-21 21:40:00,1039,57.55,Bangalore,Grocery,0
+2025-02-16 06:17:00,1040,29.39,New York,Grocery,3
+2025-03-07 20:41:00,1035,183.8,New York,Travel,0
+2025-01-12 17:36:00,1034,3.92,New York,Entertainment,0
+2025-02-02 01:35:00,1047,232.04,Delhi,Electronics,0
+2025-01-06 10:05:00,1024,61.89,Mumbai,Grocery,0
+2025-01-04 15:17:00,1022,101.39,Mumbai,Entertainment,0
+2025-01-14 22:16:00,1005,107.69,Mumbai,Entertainment,0
+2025-02-01 15:03:00,1033,225.49,Paris,Electronics,0
+2025-02-09 06:36:00,1036,101.24,Mumbai,Entertainment,0
+2025-01-03 07:43:00,1047,95.17,Paris,Entertainment,0
+2025-01-10 09:00:00,1020,6.9,New York,Entertainment,0
+2025-02-06 23:02:00,1019,73.07,New York,Grocery,0
+2025-01-21 09:35:00,1035,16.27,Delhi,Electronics,0
+2025-01-07 17:02:00,1043,133.73,Bangalore,Entertainment,0
+2025-01-12 18:44:00,1017,71.79,New York,Entertainment,0
+2025-02-11 09:58:00,1045,114.01,Bangalore,Grocery,0
+2025-02-21 03:46:00,1043,4.26,Bangalore,Electronics,0
+2025-03-01 01:47:00,1034,8.86,Delhi,Travel,0
+2025-02-16 16:15:00,1009,125.99,London,Grocery,0
+2025-02-17 22:42:00,1026,7.48,London,Electronics,0
+2025-01-10 05:24:00,1002,7.39,Tokyo,Entertainment,3
+2025-02-20 13:09:00,1009,1.22,Delhi,Electronics,0
+2025-02-28 19:04:00,1009,313.5,Tokyo,Electronics,2
+2025-03-06 21:48:00,1040,133.75,Tokyo,Electronics,0
+2025-02-12 15:09:00,1017,43.58,London,Travel,0
+2025-01-07 13:15:00,1001,35.17,Delhi,Electronics,0
+2025-02-07 17:40:00,1025,43.03,London,Travel,0
+2025-01-31 14:38:00,1043,149.01,Tokyo,Entertainment,0
+2025-02-24 17:52:00,1040,108.28,Delhi,Travel,0
+2025-02-05 14:53:00,1042,20.48,Tokyo,Entertainment,0
+2025-03-08 15:41:00,1025,19.13,Mumbai,Entertainment,0
+2025-02-24 17:01:00,1039,10.36,Bangalore,Travel,0
+2025-02-11 22:43:00,1035,107.97,Delhi,Grocery,0
+2025-01-21 05:24:00,1003,144.55,Delhi,Utilities,0
+2025-03-08 06:35:00,1037,30.79,Bangalore,Electronics,0
+2025-01-31 11:59:00,1044,2.12,Tokyo,Utilities,0
+2025-01-25 11:27:00,1044,8.57,Mumbai,Electronics,0
+2025-03-07 19:18:00,1030,343.77,Paris,Electronics,0
+2025-03-05 17:07:00,1038,35.02,Bangalore,Entertainment,3
+2025-02-13 13:52:00,1034,146.63,London,Electronics,3
+2025-02-09 06:53:00,1012,97.99,Tokyo,Electronics,0
+2025-02-11 01:01:00,1019,48.12,Bangalore,Travel,0
+2025-01-19 12:06:00,1037,23.03,Bangalore,Utilities,0
+2025-01-17 00:09:00,1044,12.94,Delhi,Travel,0
+2025-02-25 06:45:00,1049,95.45,London,Electronics,0
+2025-03-10 03:16:00,1017,149.0,London,Entertainment,0
+2025-03-09 14:59:00,1010,103.26,London,Travel,0
+2025-02-17 11:45:00,1049,75.57,Bangalore,Travel,0
+2025-01-28 21:18:00,1047,4.29,Paris,Grocery,0
+2025-02-15 10:17:00,1012,345.74,New York,Electronics,0
+2025-01-17 04:09:00,1016,160.3,Tokyo,Entertainment,0
+2025-01-07 19:43:00,1024,34.65,New York,Travel,0
+2025-02-11 18:40:00,1019,391.05,Bangalore,Travel,0
+2025-01-30 03:35:00,1008,92.1,New York,Entertainment,0
+2025-01-07 15:00:00,1031,87.33,Bangalore,Electronics,0
+2025-01-12 08:44:00,1021,137.86,New York,Grocery,0
+2025-01-04 04:51:00,1017,167.01,London,Travel,0
+2025-01-20 05:03:00,1023,106.85,Mumbai,Grocery,0
+2025-02-06 02:31:00,1037,13.71,London,Utilities,0
+2025-02-10 01:19:00,1016,41.29,London,Electronics,0
+2025-01-22 12:17:00,1006,263.23,Delhi,Utilities,0
+2025-03-07 18:24:00,1008,25.44,Delhi,Utilities,0
+2025-02-04 02:35:00,1025,46.55,New York,Utilities,0
+2025-03-05 04:47:00,1018,56.58,Bangalore,Electronics,0
+2025-03-03 06:23:00,1025,57.88,London,Electronics,0
+2025-02-12 06:50:00,1012,94.92,New York,Entertainment,3
+2025-02-16 02:27:00,1015,286.6,Delhi,Grocery,0
+2025-01-13 13:11:00,1026,27.53,Mumbai,Grocery,0
+2025-02-11 03:55:00,1041,12.95,Tokyo,Entertainment,0
+2025-02-20 06:09:00,1045,22.0,New York,Entertainment,0
+2025-01-09 06:58:00,1026,217.97,Mumbai,Utilities,0
+2025-01-25 10:35:00,1047,103.79,Tokyo,Entertainment,0
+2025-03-05 16:00:00,1032,33.67,Paris,Travel,0
+2025-01-03 18:40:00,1010,169.25,New York,Grocery,0
+2025-02-19 00:28:00,1016,197.59,New York,Entertainment,0
+2025-03-07 00:10:00,1007,187.41,Paris,Travel,0
+2025-03-09 22:56:00,1017,251.24,Paris,Travel,0
+2025-01-27 14:24:00,1023,29.07,New York,Travel,0
+2025-02-18 05:29:00,1026,140.67,Paris,Travel,2
+2025-02-27 15:06:00,1021,61.72,London,Utilities,0
+2025-03-04 06:03:00,1022,184.52,Tokyo,Travel,0
+2025-01-15 10:04:00,1007,130.38,Tokyo,Utilities,0
+2025-03-01 17:47:00,1014,149.81,Tokyo,Utilities,0
+2025-01-27 17:34:00,1015,106.76,London,Travel,0
+2025-01-03 08:13:00,1007,19.53,Bangalore,Grocery,3
+2025-01-09 10:41:00,1009,78.75,Paris,Travel,0
+2025-03-09 17:32:00,1048,417.79,Mumbai,Travel,0
+2025-03-06 08:18:00,1008,277.08,Paris,Travel,0
+2025-01-19 23:50:00,1023,4.41,New York,Grocery,0
+2025-03-06 14:08:00,1029,18.01,Delhi,Electronics,0
+2025-03-07 11:37:00,1018,14.13,Tokyo,Electronics,0
+2025-01-18 14:31:00,1031,129.46,Paris,Utilities,0
+2025-03-03 13:48:00,1030,170.26,Mumbai,Utilities,0
+2025-01-11 15:05:00,1039,24.02,New York,Grocery,0
+2025-02-22 07:53:00,1035,70.49,London,Entertainment,0
+2025-02-23 07:57:00,1018,183.7,Bangalore,Electronics,0
+2025-02-15 19:13:00,1042,131.98,London,Utilities,0
+2025-02-09 21:38:00,1039,78.14,Mumbai,Electronics,0
+2025-01-15 03:18:00,1017,89.24,New York,Grocery,2
+2025-01-03 06:27:00,1014,71.0,Tokyo,Grocery,0
+2025-02-27 11:05:00,1031,35.32,Paris,Entertainment,0
+2025-03-04 05:08:00,1024,83.25,New York,Entertainment,0
+2025-01-27 17:53:00,1035,116.76,Bangalore,Grocery,0
+2025-01-19 02:52:00,1044,206.61,London,Utilities,0
+2025-01-08 20:58:00,1045,101.14,Bangalore,Electronics,0
+2025-01-01 06:52:00,1034,143.18,Bangalore,Travel,0
+2025-01-06 05:43:00,1003,17.44,Mumbai,Entertainment,0
+2025-01-24 06:16:00,1037,61.91,Mumbai,Travel,3
+2025-02-12 03:32:00,1043,0.94,Paris,Utilities,2
+2025-03-03 20:44:00,1040,28.33,Mumbai,Entertainment,0
+2025-03-06 12:40:00,1026,129.63,Mumbai,Travel,0
+2025-01-31 20:25:00,1023,480.48,New York,Utilities,0
+2025-01-27 21:56:00,1044,10.44,Tokyo,Electronics,0
+2025-01-14 02:48:00,1039,51.33,Paris,Utilities,0
+2025-01-25 19:35:00,1015,160.98,New York,Entertainment,0
+2025-02-02 20:15:00,1049,22.82,Tokyo,Grocery,0
+2025-02-27 16:02:00,1004,80.99,Bangalore,Electronics,3
+2025-03-01 17:19:00,1029,132.08,New York,Travel,0
+2025-01-13 11:15:00,1022,95.71,Delhi,Entertainment,0
+2025-01-27 06:41:00,1025,20.83,New York,Grocery,0
+2025-02-19 01:20:00,1013,43.91,Mumbai,Utilities,0
+2025-02-15 11:50:00,1018,153.15,Tokyo,Grocery,0
+2025-01-25 05:51:00,1033,80.79,Paris,Entertainment,0
+2025-02-10 23:51:00,1016,0.52,Paris,Entertainment,0
+2025-03-03 14:46:00,1045,143.13,Tokyo,Grocery,0
+2025-01-06 02:37:00,1042,3.59,Mumbai,Utilities,0
+2025-01-23 13:19:00,1044,136.94,London,Grocery,0
+2025-02-12 16:36:00,1002,22.62,New York,Entertainment,0
+2025-02-01 02:51:00,1035,317.18,Mumbai,Entertainment,0
+2025-01-26 03:28:00,1042,45.88,Delhi,Travel,0
+2025-01-14 23:50:00,1034,39.59,Bangalore,Travel,0
+2025-02-19 10:20:00,1030,16.12,Tokyo,Electronics,0
+2025-01-31 01:26:00,1013,36.47,New York,Entertainment,0
+2025-02-17 12:50:00,1013,209.27,Paris,Travel,0
+2025-01-15 19:52:00,1018,560.87,Bangalore,Grocery,1
+2025-02-08 05:49:00,1032,45.94,London,Utilities,0
+2025-01-10 23:57:00,1032,59.53,Delhi,Grocery,0
+2025-01-29 20:35:00,1035,128.04,Paris,Utilities,2
+2025-02-02 14:39:00,1039,217.33,Tokyo,Travel,0
+2025-01-01 12:08:00,1046,89.91,New York,Electronics,0
+2025-02-05 01:57:00,1029,49.68,Tokyo,Grocery,0
+2025-02-15 23:54:00,1049,53.21,Bangalore,Grocery,0
+2025-01-28 17:54:00,1029,118.95,New York,Grocery,0
+2025-02-02 20:00:00,1044,0.32,Mumbai,Utilities,0
+2025-02-25 04:19:00,1016,96.65,London,Travel,0
+2025-01-12 15:39:00,1044,43.93,Mumbai,Grocery,0
+2025-02-14 09:32:00,1047,158.08,Mumbai,Grocery,0
+2025-02-20 15:36:00,1010,9.76,Tokyo,Electronics,0
+2025-01-17 23:46:00,1030,88.72,Bangalore,Electronics,0
+2025-01-26 15:39:00,1025,65.58,London,Travel,0
+2025-02-18 12:56:00,1039,102.81,New York,Travel,0
+2025-01-25 11:50:00,1020,6.71,New York,Entertainment,0
+2025-02-11 02:03:00,1005,86.75,Delhi,Electronics,0
+2025-02-27 09:17:00,1001,82.44,Paris,Entertainment,0
+2025-02-06 01:34:00,1030,82.25,Delhi,Utilities,0
+2025-02-15 01:35:00,1049,92.5,Delhi,Entertainment,0
+2025-01-23 10:27:00,1003,112.85,New York,Grocery,0
+2025-02-07 13:38:00,1045,163.47,Tokyo,Entertainment,0
+2025-02-12 07:21:00,1014,31.45,Mumbai,Travel,3
+2025-01-04 19:26:00,1030,174.33,Bangalore,Utilities,0
+2025-01-06 18:55:00,1004,68.97,Mumbai,Grocery,0
+2025-03-02 08:20:00,1018,8.02,Mumbai,Entertainment,0
+2025-03-03 21:12:00,1037,6.03,London,Utilities,0
+2025-03-09 12:03:00,1025,40.68,New York,Utilities,0
+2025-01-08 17:30:00,1048,153.66,Bangalore,Grocery,0
+2025-03-02 18:28:00,1001,122.99,Tokyo,Entertainment,0
+2025-02-12 01:26:00,1046,155.41,London,Utilities,0
+2025-02-16 07:43:00,1015,72.83,Paris,Utilities,0
+2025-01-19 21:12:00,1009,58.02,Tokyo,Electronics,0
+2025-01-01 17:42:00,1015,15.95,Delhi,Utilities,0
+2025-02-28 09:16:00,1049,39.78,Tokyo,Electronics,0
+2025-03-04 08:20:00,1024,56.92,Tokyo,Entertainment,0
+2025-01-15 23:05:00,1004,9.28,Mumbai,Entertainment,0
+2025-01-16 01:29:00,1012,24.92,Tokyo,Entertainment,0
+2025-01-08 18:14:00,1037,91.19,Delhi,Travel,0
+2025-03-03 10:21:00,1037,133.05,Delhi,Entertainment,0
+2025-01-07 11:48:00,1043,640.55,New York,Utilities,1
+2025-01-17 11:14:00,1006,270.48,Tokyo,Grocery,0
+2025-01-27 11:02:00,1039,102.88,Mumbai,Electronics,0
+2025-02-21 17:00:00,1046,54.69,Tokyo,Travel,0
+2025-03-04 10:50:00,1024,101.11,Paris,Entertainment,0
+2025-01-05 17:21:00,1011,154.02,Paris,Entertainment,0
+2025-02-20 04:27:00,1013,12.59,Mumbai,Grocery,3
+2025-02-03 10:16:00,1034,52.75,New York,Grocery,0
+2025-01-17 09:45:00,1025,183.13,New York,Travel,0
+2025-02-27 13:13:00,1007,48.42,Delhi,Electronics,0
+2025-02-20 09:52:00,1004,84.83,Delhi,Entertainment,0
+2025-02-23 12:12:00,1008,88.62,London,Travel,0
+2025-01-31 17:41:00,1020,20.39,Mumbai,Utilities,0
+2025-01-02 01:42:00,1029,44.98,Tokyo,Utilities,0
+2025-01-16 01:17:00,1045,40.72,Bangalore,Travel,0
+2025-02-02 10:52:00,1046,2.65,Mumbai,Entertainment,0
+2025-02-04 23:03:00,1010,2.45,London,Travel,0
+2025-01-28 03:21:00,1043,178.2,Delhi,Entertainment,0
+2025-02-13 15:36:00,1034,31.89,Mumbai,Grocery,0
+2025-03-06 15:45:00,1026,73.0,Mumbai,Travel,0
+2025-03-03 16:58:00,1041,35.49,Delhi,Entertainment,2
+2025-01-14 05:45:00,1049,282.48,London,Travel,0
+2025-02-27 23:00:00,1003,30.02,Delhi,Travel,0
+2025-03-03 04:12:00,1006,56.15,New York,Entertainment,0
+2025-02-07 23:33:00,1005,206.14,Tokyo,Entertainment,0
+2025-01-19 17:22:00,1005,184.47,Delhi,Electronics,0
+2025-01-20 15:35:00,1047,20.59,London,Travel,0
+2025-01-10 14:07:00,1023,162.27,Paris,Utilities,0
+2025-01-30 09:48:00,1049,61.28,New York,Travel,2
+2025-01-19 08:32:00,1009,65.97,Paris,Travel,0
+2025-02-27 20:05:00,1035,14.33,Bangalore,Entertainment,0
+2025-03-05 17:52:00,1020,8.4,Delhi,Travel,0
+2025-02-10 04:14:00,1049,130.17,New York,Travel,0
+2025-01-28 23:02:00,1042,68.61,Tokyo,Utilities,0
+2025-01-26 18:00:00,1035,57.42,Delhi,Entertainment,0
+2025-01-01 22:04:00,1018,130.75,Tokyo,Travel,0
+2025-03-05 09:07:00,1017,145.04,Mumbai,Grocery,0
+2025-01-25 22:29:00,1024,17.31,Paris,Electronics,0
+2025-03-04 00:59:00,1003,94.22,New York,Utilities,0
+2025-01-14 19:10:00,1032,14.54,Tokyo,Travel,3
+2025-01-25 00:18:00,1035,139.18,London,Grocery,0
+2025-02-20 02:04:00,1038,106.99,Tokyo,Travel,0
+2025-01-19 14:30:00,1013,313.76,London,Travel,0
+2025-01-18 13:29:00,1047,7.15,Delhi,Entertainment,0
+2025-02-08 06:49:00,1025,5.87,New York,Entertainment,0
+2025-03-07 01:54:00,1009,33.15,Tokyo,Entertainment,3
+2025-03-07 10:46:00,1004,30.34,Bangalore,Grocery,0
+2025-01-11 18:05:00,1014,28.37,Tokyo,Travel,0
+2025-01-31 21:22:00,1037,236.72,Bangalore,Electronics,2
+2025-03-01 20:28:00,1034,28.71,New York,Utilities,0
+2025-01-04 07:08:00,1011,31.74,Tokyo,Entertainment,0
+2025-03-02 06:09:00,1041,142.46,London,Entertainment,0
+2025-01-07 13:15:00,1003,59.74,Tokyo,Travel,2
+2025-01-03 13:49:00,1028,149.93,Paris,Travel,0
+2025-01-22 01:55:00,1029,6.76,Delhi,Grocery,0
+2025-02-08 17:31:00,1009,66.86,Mumbai,Grocery,0
+2025-02-10 03:19:00,1003,3.42,London,Entertainment,0
+2025-01-10 02:36:00,1025,6.47,Paris,Travel,0
+2025-01-18 16:30:00,1034,236.91,Bangalore,Electronics,0
+2025-01-30 09:44:00,1012,14.99,Delhi,Utilities,0
+2025-01-30 19:18:00,1042,76.02,New York,Travel,0
+2025-02-06 06:24:00,1009,52.95,London,Travel,0
+2025-01-28 06:58:00,1015,42.67,Mumbai,Grocery,0
+2025-02-25 16:59:00,1040,230.09,Delhi,Utilities,0
+2025-02-12 19:09:00,1025,2.21,Bangalore,Entertainment,0
+2025-02-15 20:40:00,1005,109.0,Mumbai,Travel,0
+2025-03-11 02:38:00,1011,330.76,New York,Entertainment,0
+2025-03-11 07:55:00,1034,82.14,New York,Travel,0
+2025-01-20 10:56:00,1024,276.18,Bangalore,Entertainment,0
+2025-01-17 15:20:00,1015,5.37,London,Utilities,0
+2025-01-24 07:51:00,1038,54.26,Bangalore,Grocery,0
+2025-02-27 12:48:00,1008,30.13,Tokyo,Utilities,0
+2025-02-16 23:21:00,1005,131.24,New York,Electronics,3
+2025-01-26 06:35:00,1048,397.91,Delhi,Grocery,0
+2025-01-16 18:20:00,1026,29.64,Tokyo,Utilities,0
+2025-01-25 01:00:00,1018,106.18,Paris,Electronics,0
+2025-01-15 06:39:00,1006,22.08,Mumbai,Travel,0
+2025-03-06 14:45:00,1037,83.32,Tokyo,Travel,0
+2025-03-06 20:36:00,1048,62.35,Mumbai,Entertainment,2
+2025-02-12 19:22:00,1013,357.57,Bangalore,Grocery,0
+2025-02-23 03:39:00,1028,93.78,Tokyo,Travel,0
+2025-01-16 02:12:00,1005,43.0,Bangalore,Grocery,0
+2025-03-05 10:42:00,1013,12.11,Paris,Travel,0
+2025-01-22 01:54:00,1017,16.4,New York,Entertainment,0
+2025-01-10 14:43:00,1040,25.53,Paris,Utilities,0
+2025-02-19 19:26:00,1045,28.9,New York,Entertainment,0
+2025-01-13 06:00:00,1032,190.12,Bangalore,Electronics,0
+2025-02-06 11:28:00,1029,82.38,New York,Travel,0
+2025-01-27 16:13:00,1003,74.11,Mumbai,Electronics,0
+2025-02-06 13:18:00,1040,12.19,Delhi,Electronics,0
+2025-02-06 14:56:00,1034,196.71,Paris,Grocery,0
+2025-02-17 19:46:00,1040,128.31,Tokyo,Travel,0
+2025-01-14 06:07:00,1027,7.01,Paris,Electronics,0
+2025-01-29 18:30:00,1013,123.04,Mumbai,Utilities,0
+2025-01-18 00:24:00,1045,78.43,New York,Electronics,0
+2025-01-05 22:34:00,1033,8.53,Mumbai,Utilities,0
+2025-02-24 18:19:00,1006,61.3,London,Grocery,0
+2025-03-11 04:57:00,1024,66.3,London,Electronics,0
+2025-01-08 14:55:00,1019,18.13,Tokyo,Entertainment,0
+2025-01-08 15:43:00,1016,291.32,Mumbai,Grocery,0
+2025-01-15 21:27:00,1040,189.7,Bangalore,Utilities,0
+2025-03-04 19:49:00,1028,110.57,Tokyo,Grocery,3
+2025-01-17 15:19:00,1033,62.04,Bangalore,Electronics,2
+2025-02-15 23:23:00,1048,53.06,Tokyo,Travel,0
+2025-01-21 15:03:00,1041,105.26,London,Travel,0
+2025-01-07 11:37:00,1013,78.84,Tokyo,Utilities,0
+2025-02-02 05:47:00,1043,6.43,London,Utilities,0
+2025-02-12 17:29:00,1045,71.85,New York,Travel,0
+2025-02-28 19:05:00,1025,164.2,Bangalore,Utilities,0
+2025-01-23 04:01:00,1042,61.48,Mumbai,Grocery,0
+2025-01-24 03:07:00,1036,5.34,Tokyo,Entertainment,0
+2025-01-19 23:55:00,1027,154.31,London,Entertainment,0
+2025-01-04 08:35:00,1038,22.48,Paris,Grocery,0
+2025-01-14 23:59:00,1007,29.92,Bangalore,Entertainment,0
+2025-02-03 01:25:00,1005,18.0,Tokyo,Electronics,0
+2025-01-27 10:48:00,1043,40.08,Delhi,Grocery,0
+2025-02-24 16:32:00,1045,141.37,New York,Utilities,0
+2025-02-08 09:24:00,1031,73.27,New York,Grocery,0
+2025-02-09 14:43:00,1023,22.93,Paris,Travel,0
+2025-01-25 16:27:00,1042,210.23,London,Utilities,0
+2025-03-09 08:47:00,1010,211.68,Tokyo,Travel,0
+2025-02-27 12:44:00,1032,204.47,Bangalore,Utilities,0
+2025-01-20 02:52:00,1043,27.29,London,Entertainment,0
+2025-01-24 20:29:00,1030,60.01,New York,Grocery,0
+2025-02-01 13:25:00,1039,419.9,London,Electronics,0
+2025-01-04 23:13:00,1031,147.85,New York,Utilities,0
+2025-02-09 00:18:00,1018,2.75,London,Utilities,0
+2025-02-04 07:27:00,1036,6.74,Paris,Travel,0
+2025-02-18 20:20:00,1002,62.35,Mumbai,Entertainment,0
+2025-02-05 09:50:00,1014,239.93,Paris,Travel,0
+2025-02-22 13:12:00,1013,77.37,Paris,Travel,0
+2025-02-15 12:25:00,1029,68.88,Mumbai,Entertainment,0
+2025-02-28 21:11:00,1012,11.15,Mumbai,Electronics,0
+2025-02-10 09:01:00,1039,106.94,Tokyo,Travel,0
+2025-01-17 12:33:00,1002,172.66,Bangalore,Travel,0
+2025-02-09 06:50:00,1032,47.87,Bangalore,Utilities,0
+2025-03-08 00:44:00,1013,149.44,Tokyo,Entertainment,0
+2025-01-27 07:32:00,1046,333.76,Paris,Grocery,0
+2025-01-01 16:55:00,1027,22.79,Paris,Electronics,0
+2025-02-12 22:13:00,1049,74.09,New York,Electronics,0
+2025-01-20 05:52:00,1041,33.85,New York,Entertainment,0
+2025-01-06 20:15:00,1017,157.43,Bangalore,Utilities,0
+2025-02-13 06:12:00,1040,86.18,Tokyo,Utilities,0
+2025-01-17 13:13:00,1031,100.67,Delhi,Entertainment,0
+2025-01-03 21:18:00,1034,159.91,Delhi,Utilities,0
+2025-02-13 12:40:00,1024,50.41,Tokyo,Electronics,0
+2025-01-15 02:29:00,1045,246.62,New York,Electronics,0
+2025-01-05 20:10:00,1035,76.15,Bangalore,Grocery,0
+2025-02-20 07:54:00,1048,17.19,Bangalore,Entertainment,2
+2025-03-02 05:04:00,1006,119.04,New York,Travel,0
+2025-02-02 07:40:00,1019,157.63,Delhi,Travel,0
+2025-01-15 03:44:00,1030,38.09,London,Grocery,0
+2025-01-13 12:17:00,1007,194.62,London,Grocery,0
+2025-02-22 16:40:00,1010,236.6,New York,Utilities,0
+2025-01-07 01:02:00,1041,32.42,London,Grocery,3
+2025-01-01 06:24:00,1032,410.57,Mumbai,Grocery,0
+2025-01-01 06:44:00,1034,15.17,Tokyo,Travel,0
+2025-01-29 10:23:00,1028,22.57,Tokyo,Utilities,0
+2025-02-03 06:46:00,1015,20.36,New York,Grocery,0
+2025-01-21 06:29:00,1030,224.42,Paris,Grocery,0
+2025-01-09 20:43:00,1037,106.22,Delhi,Utilities,2
+2025-01-13 18:24:00,1029,16.5,New York,Entertainment,0
+2025-02-11 17:40:00,1022,58.04,London,Utilities,0
+2025-03-10 03:42:00,1004,95.53,Delhi,Travel,0
+2025-01-07 20:20:00,1020,8.72,Paris,Entertainment,0
+2025-02-26 00:02:00,1032,214.06,London,Electronics,0
+2025-02-05 03:32:00,1036,162.76,Bangalore,Utilities,0
+2025-01-17 08:54:00,1004,70.36,Mumbai,Travel,0
+2025-01-17 08:04:00,1027,341.51,London,Entertainment,2
+2025-02-18 00:52:00,1017,54.09,Mumbai,Utilities,0
+2025-01-08 13:56:00,1012,414.21,Delhi,Grocery,0
+2025-01-04 08:09:00,1022,110.24,Mumbai,Utilities,0
+2025-01-23 08:41:00,1017,100.7,Delhi,Electronics,0
+2025-02-07 00:50:00,1010,18.15,Delhi,Utilities,0
+2025-01-10 08:16:00,1001,213.65,Delhi,Entertainment,0
+2025-02-09 03:57:00,1022,55.77,Delhi,Entertainment,0
+2025-01-27 22:05:00,1026,17.7,Delhi,Utilities,0
+2025-01-25 04:16:00,1018,1.27,London,Entertainment,0
+2025-02-01 07:46:00,1014,82.04,Delhi,Grocery,0
+2025-02-07 10:52:00,1047,74.95,London,Utilities,0
+2025-01-12 21:00:00,1029,127.07,Delhi,Grocery,0
+2025-02-09 15:31:00,1012,220.96,Mumbai,Grocery,0
+2025-01-16 05:49:00,1036,8.27,Bangalore,Travel,0
+2025-02-18 16:00:00,1035,131.49,Delhi,Utilities,0
+2025-01-27 05:04:00,1012,20.75,Paris,Entertainment,0
+2025-02-01 15:03:00,1007,195.32,Delhi,Grocery,0
+2025-03-06 00:33:00,1029,170.96,Delhi,Travel,0
+2025-01-26 03:07:00,1011,77.83,Mumbai,Utilities,3
+2025-01-06 00:39:00,1033,123.87,Tokyo,Utilities,0
+2025-01-11 01:29:00,1006,37.74,Mumbai,Electronics,0
+2025-02-10 06:57:00,1047,63.71,Paris,Electronics,0
+2025-02-12 23:17:00,1015,172.39,Tokyo,Grocery,0
+2025-01-30 22:45:00,1032,61.48,New York,Electronics,0
+2025-02-04 16:02:00,1011,44.29,New York,Grocery,0
+2025-03-07 07:54:00,1023,68.16,Paris,Entertainment,0
+2025-01-23 06:09:00,1026,176.17,Mumbai,Grocery,0
+2025-01-26 18:51:00,1034,40.83,London,Electronics,0
+2025-01-30 19:44:00,1046,19.09,Paris,Entertainment,0
+2025-02-21 08:43:00,1034,124.48,Bangalore,Electronics,0
+2025-01-17 20:45:00,1029,174.86,Tokyo,Grocery,0
+2025-01-27 03:06:00,1004,10.61,Tokyo,Travel,0
+2025-01-30 17:28:00,1017,27.43,Delhi,Utilities,0
+2025-03-03 10:24:00,1035,15.31,New York,Electronics,0
+2025-02-07 09:51:00,1013,42.76,Tokyo,Grocery,2
+2025-01-14 07:58:00,1041,59.85,Paris,Entertainment,0
+2025-01-14 17:18:00,1039,138.16,Tokyo,Electronics,0
+2025-01-11 14:14:00,1015,105.31,Paris,Electronics,0
+2025-01-31 17:18:00,1029,97.0,London,Utilities,0
+2025-01-01 20:52:00,1029,43.44,Delhi,Grocery,0
+2025-01-28 14:44:00,1011,184.17,New York,Travel,0
+2025-02-23 23:09:00,1032,63.73,Tokyo,Entertainment,0
+2025-01-27 00:01:00,1002,386.82,Paris,Grocery,0
+2025-03-06 01:14:00,1047,100.55,Mumbai,Entertainment,0
+2025-02-07 06:42:00,1014,13.5,New York,Electronics,0
+2025-02-11 07:34:00,1020,112.76,London,Utilities,0
+2025-02-26 11:17:00,1022,39.32,Paris,Utilities,0
+2025-02-15 06:55:00,1011,115.94,Bangalore,Travel,0
+2025-02-24 13:47:00,1027,7.22,Bangalore,Utilities,0
+2025-01-05 19:49:00,1003,19.22,Delhi,Electronics,0
+2025-02-08 11:13:00,1017,193.61,Delhi,Travel,0
+2025-02-21 01:53:00,1044,25.77,London,Grocery,0
+2025-01-05 19:41:00,1028,181.43,London,Utilities,0
+2025-01-19 00:14:00,1029,32.75,Delhi,Travel,0
+2025-01-17 05:46:00,1021,102.97,Tokyo,Electronics,2
+2025-02-12 23:26:00,1047,118.47,Tokyo,Entertainment,2
+2025-02-22 14:25:00,1016,71.88,Paris,Entertainment,0
+2025-02-27 19:31:00,1037,36.43,Mumbai,Electronics,0
+2025-03-07 14:16:00,1020,23.91,Paris,Electronics,0
+2025-02-07 02:13:00,1006,3.38,Mumbai,Entertainment,0
+2025-02-09 10:40:00,1019,36.23,London,Travel,0
+2025-03-09 12:39:00,1005,105.89,New York,Entertainment,0
+2025-01-30 09:18:00,1003,278.55,Paris,Electronics,0
+2025-02-18 17:33:00,1001,204.95,Paris,Utilities,0
+2025-02-18 21:10:00,1038,145.27,Mumbai,Grocery,0
+2025-02-06 08:09:00,1015,155.33,London,Utilities,0
+2025-01-30 22:08:00,1034,109.36,London,Utilities,0
+2025-01-28 15:31:00,1035,30.15,Bangalore,Electronics,0
+2025-02-08 12:39:00,1049,237.73,Mumbai,Entertainment,0
+2025-03-01 07:12:00,1025,111.09,London,Travel,0
+2025-03-02 16:09:00,1024,82.2,Delhi,Utilities,0
+2025-01-14 20:43:00,1012,11.76,Tokyo,Entertainment,0
+2025-02-08 06:43:00,1018,59.25,Bangalore,Travel,0
+2025-03-06 09:05:00,1015,61.68,Delhi,Utilities,0
+2025-02-21 00:37:00,1044,199.93,New York,Travel,0
+2025-01-10 23:48:00,1016,79.11,Paris,Entertainment,0
+2025-01-04 20:49:00,1027,47.87,Bangalore,Grocery,0
+2025-02-18 11:56:00,1008,376.36,New York,Entertainment,0
+2025-01-26 09:46:00,1046,11.73,Paris,Electronics,0
+2025-01-09 08:15:00,1025,54.91,Tokyo,Travel,0
+2025-02-01 06:02:00,1017,4.29,London,Grocery,2
+2025-01-05 08:14:00,1029,134.67,Delhi,Travel,0
+2025-01-12 21:44:00,1008,250.2,Mumbai,Travel,0
+2025-01-17 19:34:00,1015,32.86,Delhi,Utilities,3
+2025-02-26 01:19:00,1027,195.43,Tokyo,Electronics,0
+2025-02-19 20:14:00,1046,34.56,New York,Travel,0
+2025-01-05 05:30:00,1007,241.65,Mumbai,Entertainment,0
+2025-01-09 01:57:00,1003,140.23,London,Entertainment,0
+2025-01-16 13:35:00,1029,163.43,Tokyo,Utilities,0
+2025-01-17 17:11:00,1044,1.82,Mumbai,Electronics,0
+2025-02-10 10:43:00,1024,329.17,Tokyo,Electronics,0
+2025-01-29 15:20:00,1003,129.71,Tokyo,Entertainment,0
+2025-02-28 04:47:00,1020,36.35,London,Grocery,0
+2025-01-24 05:14:00,1046,176.84,Bangalore,Utilities,0
+2025-02-18 10:04:00,1015,33.06,Paris,Utilities,0
+2025-02-22 13:37:00,1025,206.16,Mumbai,Entertainment,3
+2025-01-20 22:52:00,1030,11.94,London,Entertainment,0
+2025-01-08 20:34:00,1014,121.63,Tokyo,Grocery,0
+2025-01-17 15:14:00,1007,77.8,London,Grocery,0
+2025-02-09 15:48:00,1017,10.15,Bangalore,Electronics,3
+2025-03-02 10:44:00,1044,27.69,Paris,Utilities,0
+2025-03-02 18:25:00,1020,1.25,Delhi,Utilities,0
+2025-01-26 11:08:00,1036,63.26,Mumbai,Entertainment,0
+2025-01-17 00:21:00,1009,35.85,Paris,Electronics,3
+2025-02-25 00:52:00,1038,91.22,New York,Utilities,0
+2025-01-28 14:29:00,1048,35.27,Mumbai,Electronics,0
+2025-01-12 17:47:00,1022,35.66,Paris,Electronics,3
+2025-01-14 00:57:00,1002,135.94,Tokyo,Entertainment,0
+2025-03-06 17:49:00,1024,4.93,Mumbai,Electronics,0
+2025-02-05 22:25:00,1008,233.2,Mumbai,Grocery,0
+2025-03-05 19:05:00,1011,191.23,London,Grocery,0
+2025-02-26 19:38:00,1013,110.2,Tokyo,Travel,0
+2025-01-17 09:44:00,1017,89.95,New York,Entertainment,0
+2025-01-17 04:41:00,1008,222.84,Delhi,Travel,0
+2025-01-08 06:48:00,1021,20.5,Bangalore,Grocery,0
+2025-01-16 16:14:00,1018,8.23,Paris,Travel,0
+2025-01-04 15:20:00,1030,27.38,London,Entertainment,0
+2025-01-31 00:21:00,1018,158.27,Paris,Entertainment,3
+2025-01-08 06:38:00,1046,3.53,New York,Electronics,0
+2025-02-08 15:25:00,1047,87.42,New York,Utilities,0
+2025-01-14 09:02:00,1031,538.99,Mumbai,Electronics,1
+2025-02-06 15:56:00,1038,193.58,Bangalore,Entertainment,2
+2025-01-04 01:52:00,1032,73.7,New York,Grocery,0
+2025-03-08 03:37:00,1011,6.58,Paris,Grocery,0
+2025-02-14 15:31:00,1045,178.01,Tokyo,Electronics,0
+2025-02-24 22:24:00,1025,91.37,Tokyo,Entertainment,0
+2025-02-11 05:59:00,1033,12.21,Mumbai,Grocery,0
+2025-02-25 08:34:00,1038,9.86,Delhi,Entertainment,0
+2025-02-05 00:28:00,1041,240.38,Paris,Grocery,0
+2025-03-02 22:11:00,1008,110.62,Paris,Entertainment,0
+2025-01-01 05:02:00,1011,176.78,New York,Travel,0
+2025-02-27 07:58:00,1022,211.18,Bangalore,Entertainment,0
+2025-01-01 00:55:00,1024,84.81,Paris,Entertainment,0
+2025-01-07 01:17:00,1041,72.87,London,Electronics,0
+2025-01-20 22:19:00,1017,56.29,Delhi,Travel,0
+2025-02-21 04:06:00,1012,38.12,New York,Utilities,0
+2025-02-16 23:41:00,1046,57.02,London,Electronics,0
+2025-01-31 17:27:00,1032,148.67,Mumbai,Utilities,3
+2025-01-12 15:08:00,1015,92.11,Tokyo,Grocery,0
+2025-01-04 05:01:00,1016,223.05,Mumbai,Utilities,0
+2025-01-11 10:34:00,1022,58.59,Tokyo,Entertainment,0
+2025-01-04 13:26:00,1028,93.42,Mumbai,Utilities,0
+2025-01-04 13:22:00,1020,99.78,Paris,Electronics,0
+2025-01-13 12:30:00,1033,89.57,London,Electronics,3
+2025-02-27 12:38:00,1010,121.28,Tokyo,Utilities,0
+2025-02-28 19:57:00,1040,27.11,New York,Electronics,2
+2025-02-08 15:38:00,1032,71.82,London,Electronics,0
+2025-01-27 19:58:00,1033,11.01,New York,Utilities,0
+2025-02-16 13:47:00,1002,48.53,London,Travel,0
+2025-03-03 17:09:00,1033,66.88,London,Travel,0
+2025-01-25 01:54:00,1033,105.62,Mumbai,Grocery,0
+2025-01-25 21:34:00,1041,300.64,Tokyo,Electronics,3
+2025-02-02 03:11:00,1013,91.79,Tokyo,Utilities,0
+2025-02-21 04:08:00,1030,136.1,Bangalore,Electronics,0
+2025-01-27 17:58:00,1033,70.58,London,Entertainment,0
+2025-01-08 03:07:00,1013,100.54,Paris,Electronics,0
+2025-03-05 01:45:00,1026,7.36,Paris,Electronics,0
+2025-01-01 17:42:00,1022,29.36,New York,Travel,0
+2025-02-05 00:48:00,1039,44.92,New York,Utilities,0
+2025-03-08 07:02:00,1002,63.96,Mumbai,Electronics,0
+2025-01-05 07:49:00,1038,4.67,London,Travel,2
+2025-02-09 10:33:00,1039,15.09,New York,Grocery,0
+2025-02-03 06:35:00,1026,32.41,New York,Travel,0
+2025-01-04 05:12:00,1046,355.9,Delhi,Travel,0
+2025-01-03 11:56:00,1015,40.25,London,Travel,0
+2025-01-05 06:48:00,1034,65.79,Mumbai,Electronics,0
+2025-01-06 06:01:00,1042,21.83,New York,Electronics,0
+2025-02-21 05:54:00,1044,94.36,Mumbai,Grocery,0
+2025-02-27 01:12:00,1049,32.95,Tokyo,Entertainment,0
+2025-01-19 13:34:00,1040,23.19,Mumbai,Entertainment,0
+2025-01-05 10:11:00,1011,72.69,Paris,Entertainment,0
+2025-01-19 02:29:00,1003,0.55,Paris,Grocery,0
+2025-02-25 11:45:00,1006,0.77,Mumbai,Entertainment,0
+2025-01-09 23:10:00,1009,24.73,Paris,Entertainment,0
+2025-02-21 00:39:00,1006,3.74,Tokyo,Travel,0
+2025-02-23 23:35:00,1009,11.43,London,Electronics,0
+2025-02-26 10:24:00,1039,41.38,Paris,Electronics,0
+2025-01-17 03:55:00,1031,162.25,Paris,Travel,0
+2025-02-20 04:34:00,1032,84.87,Mumbai,Travel,0
+2025-02-26 13:29:00,1041,71.88,Tokyo,Travel,0
+2025-02-11 16:04:00,1012,34.74,Bangalore,Electronics,0
+2025-02-13 17:41:00,1008,268.46,Bangalore,Entertainment,2
+2025-02-28 18:59:00,1008,50.59,Bangalore,Travel,0
+2025-02-07 21:13:00,1028,9.11,Bangalore,Grocery,0

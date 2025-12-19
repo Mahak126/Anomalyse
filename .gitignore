@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs
+.vscode/
+.idea/
+.trae/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Data & DB
+*.sqlite3
+*.db
+data/processed/
+data/raw/*.csv
+!data/raw/sample.csv
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
