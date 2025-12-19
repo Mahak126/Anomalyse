@@ -101,23 +101,43 @@ const TransactionsPage: React.FC = () => {
     fetchTransactions();
   }, []);
 
-  const uniqueReasons = useMemo(() => 
-    Array.from(new Set(transactions.map(t => t.flag_reason).filter((r): r is string => !!r))), 
-    [transactions]
-  );
+  const uniqueReasons = useMemo(() => {
+    const reasons = new Set<string>();
+    transactions.forEach(t => {
+      if (t.flag_reason) reasons.add(t.flag_reason);
+      t.flags?.forEach(f => {
+        if (f.reason) reasons.add(f.reason);
+      });
+    });
+    return Array.from(reasons);
+  }, [transactions]);
 
-  const uniqueFlags = useMemo(() => 
-    Array.from(new Set(transactions.map(t => t.flag_type).filter((f): f is string => !!f))).sort(),
-    [transactions]
-  );
+  const uniqueFlags = useMemo(() => {
+    const flags = new Set<string>();
+    transactions.forEach(t => {
+      if (t.flag_type) flags.add(t.flag_type);
+      t.flags?.forEach(f => {
+        if (f.type) flags.add(f.type);
+      });
+    });
+    return Array.from(flags).sort();
+  }, [transactions]);
 
   const filteredData = useMemo(() => {
-    let data = transactions.filter(t => 
-      (t.id.toLowerCase().includes(filter.toLowerCase()) || 
-       t.user_id.toLowerCase().includes(filter.toLowerCase())) &&
-      (reasonFilter ? t.flag_reason === reasonFilter : true) &&
-      (flagFilter ? t.flag_type === flagFilter : true)
-    );
+    let data = transactions.filter(t => {
+      const searchMatch = (t.id.toLowerCase().includes(filter.toLowerCase()) || 
+                          t.user_id.toLowerCase().includes(filter.toLowerCase()));
+      
+      const reasonMatch = !reasonFilter || 
+                          t.flag_reason === reasonFilter || 
+                          t.flags?.some(f => f.reason === reasonFilter);
+      
+      const flagMatch = !flagFilter || 
+                        t.flag_type === flagFilter || 
+                        t.flags?.some(f => f.type === flagFilter);
+      
+      return searchMatch && reasonMatch && flagMatch;
+    });
 
     if (sortConfig) {
       data = [...data].sort((a, b) => {
@@ -321,7 +341,24 @@ const TransactionsPage: React.FC = () => {
                        {getStatusBadge(txn.riskScore)}
                      </td>
                      <td className="px-6 py-4 whitespace-nowrap">
-                       <FlagItem type={txn.flag_type} reason={txn.flag_reason} timestamp={txn.timestamp} />
+                       <div className="flex flex-wrap gap-2">
+                         {txn.flags && txn.flags.length > 0 ? (
+                           txn.flags.map((flag, idx) => (
+                             <FlagItem 
+                               key={idx} 
+                               type={flag.type} 
+                               reason={flag.reason} 
+                               timestamp={txn.timestamp} 
+                             />
+                           ))
+                         ) : (
+                           <FlagItem 
+                             type={txn.flag_type} 
+                             reason={txn.flag_reason} 
+                             timestamp={txn.timestamp} 
+                           />
+                         )}
+                       </div>
                      </td>
                      <td className="px-6 py-4">
                        {getActionGuidance(txn)}
