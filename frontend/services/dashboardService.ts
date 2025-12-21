@@ -1,12 +1,10 @@
 import { FraudMetrics } from '../types';
-
-// Future Backend API Contracts:
-// GET /api/v1/dashboard/metrics
+import { API_CONFIG } from './config';
 
 export const dashboardService = {
   getFraudMetrics: async (): Promise<FraudMetrics> => {
     const token = localStorage.getItem('anomalyse_token');
-    const resp = await fetch('http://localhost:8000/dashboard/metrics', {
+    const resp = await fetch(`${API_CONFIG.BASE_URL}/dashboard/metrics`, {
       headers: {
         'Authorization': token ? `Bearer ${token}` : ''
       }

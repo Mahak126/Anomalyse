@@ -1,5 +1,4 @@
-// Future Backend API Contracts:
-// POST /api/v1/transactions/upload
+import { API_CONFIG } from './config';
 
 export const uploadService = {
   uploadCSV: async (file: File): Promise<{ success: boolean; message: string; rowsProcessed: number }> => {
@@ -8,7 +7,7 @@ export const uploadService = {
     const formData = new FormData();
     formData.append('file', file);
 
-    const resp = await fetch('http://localhost:8000/upload', {
+    const resp = await fetch(`${API_CONFIG.BASE_URL}/upload`, {
       method: 'POST',
       headers: {
         'Authorization': token ? `Bearer ${token}` : ''

@@ -2,7 +2,21 @@
 
 Anomalyse is a comprehensive fraud detection system that integrates a FastAPI-driven Machine Learning backend with a React-based frontend. It provides real-time transaction monitoring, risk scoring, and analytical tools for fraud prevention.
 
-## 🚀 Project Overview
+## 🌐 Deployment
+To deploy Anomalyse, you need to deploy the frontend and backend separately:
+
+### 1. Backend (Recommended: Render/Railway)
+- Set environment variables:
+  - `DATABASE_URL`: Your PostgreSQL connection string (from Supabase/Neon).
+  - `JWT_SECRET`: A secure random string.
+- Build Command: `pip install -r requirements.txt`
+- Start Command: `uvicorn main:app --host 0.0.0.0 --port $PORT`
+
+### 2. Frontend (Recommended: Vercel/Netlify)
+- Set environment variables:
+  - `VITE_API_URL`: The URL of your deployed backend.
+- Build Command: `npm run build`
+- Output Directory: `dist`
 
 - **Frontend**: React 18, TypeScript, Tailwind CSS, Recharts.
 - **Backend**: FastAPI, Python, SQLAlchemy, Scikit-learn.

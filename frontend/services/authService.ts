@@ -1,12 +1,9 @@
 import { User } from '../types';
-
-// Future Backend API Contracts:
-// POST /api/auth/login
-
+import { API_CONFIG } from './config';
 
 export const authService = {
   login: async (email: string, password: string): Promise<User> => {
-    const resp = await fetch('http://localhost:8000/auth/login', {
+    const resp = await fetch(`${API_CONFIG.BASE_URL}/auth/login`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ email, password })
