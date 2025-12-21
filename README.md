@@ -49,7 +49,7 @@ Follow these steps to get the project running on your local machine.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Ommali8421/Anomalyse_1.git
+git clone https://github.com/ShrutiPawar8055/Anomalyse
 cd Anomalyse-main
 ```
 
@@ -129,5 +129,3 @@ Anomalyse/
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Developed with ❤️ for secure banking.
