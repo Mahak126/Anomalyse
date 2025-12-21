@@ -1,4 +1,5 @@
 import { User } from '../types';
+import { API_CONFIG } from './config';
 
 // Future Backend API Contracts:
 // POST /api/auth/login

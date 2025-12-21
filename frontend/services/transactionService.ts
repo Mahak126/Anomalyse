@@ -1,5 +1,6 @@
 import { Transaction } from '../types';
 import { authService } from './authService';
+import { API_CONFIG } from './config';
 
 // Future Backend API Contracts:
 // GET /api/v1/transactions
@@ -9,7 +10,7 @@ import { authService } from './authService';
 export const transactionService = {
   getTransactions: async (): Promise<Transaction[]> => {
     const token = localStorage.getItem('anomalyse_token');
-    const resp = await fetch('http://localhost:8000/transactions', {
+    const resp = await fetch(`${API_CONFIG.BASE_URL}/transactions`, {
       headers: {
         'Authorization': token ? `Bearer ${token}` : ''
       }
@@ -24,7 +25,7 @@ export const transactionService = {
   },
   clearTransactions: async (): Promise<{ success: boolean; deleted: number }> => {
     const token = localStorage.getItem('anomalyse_token');
-    const resp = await fetch('http://localhost:8000/transactions/clear', {
+    const resp = await fetch(`${API_CONFIG.BASE_URL}/transactions/clear`, {
       method: 'POST',
       headers: {
         'Authorization': token ? `Bearer ${token}` : ''
