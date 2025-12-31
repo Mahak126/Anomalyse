@@ -18,6 +18,7 @@
 - 📁 **Batch Ingestion**: Upload CSV files for instant batch analysis and fraud prediction.
 - 🔐 **Secure Authentication**: Role-based access control for bank analysts.
 - 🤖 **ML Integration**: Scikit-learn pipeline for accurate anomaly detection.
+- 💬 **Anomalyse Assist**: AI-powered fraud support chatbot for customer assistance.
 
 ---
 
@@ -96,6 +97,15 @@ cd Anomalyse-main
    npm run dev
    ```
    *The application will be available at `http://localhost:5173`*
+
+### **4. AI Chatbot Setup**
+The AI chatbot requires a Gemini API key.
+1. Create a `.env` file in the `frontend` directory.
+2. Add your API key:
+   ```env
+   VITE_GEMINI_API_KEY=AIzaSyD9_Q_haE2pznIn9xwouPIxDb65nTi8IDo
+   ```
+   *Note: Access the chatbot at `http://localhost:5173/#/chat`*
 
 ---
 

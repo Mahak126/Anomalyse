@@ -25,8 +25,9 @@ data/raw/*.csv
 !data/raw/sample.csv
 
 # Environment
-.env
-.env.*
+# .env files are NOT ignored as per user request to keep API keys intact
+# .env
+# .env.*
 
 # OS
 .DS_Store

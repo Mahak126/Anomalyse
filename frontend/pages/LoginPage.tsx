@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { ShieldAlert, Lock, User } from 'lucide-react';
+import { Lock, User, MessageSquare } from 'lucide-react';
 import { authService } from '../services/authService';
 
 const LoginPage: React.FC = () => {
@@ -38,7 +38,7 @@ const LoginPage: React.FC = () => {
         <div className="bg-slate-900 p-8 text-center">
           <div className="flex justify-center mb-4">
             <div className="bg-white/10 p-3 rounded-full">
-              <ShieldAlert className="w-10 h-10 text-red-500" />
+              <img src="/logo.jpeg" alt="Anomalyse Logo" className="w-16 h-16 rounded-full object-cover border-4 border-white/10 shadow-lg" />
             </div>
           </div>
           <h1 className="text-2xl font-bold text-white mb-2">Anomalyse</h1>
@@ -97,6 +97,34 @@ const LoginPage: React.FC = () => {
               {isLoading ? 'Authenticating...' : 'Sign In to Terminal'}
             </button>
           </form>
+
+          <div className="mt-6 pt-6 border-t border-slate-100">
+             <button
+              onClick={() => navigate('/chat')}
+              className="w-full flex items-center justify-center gap-2 py-2.5 px-4 border-2 border-slate-200 rounded-lg shadow-sm text-sm font-medium text-slate-600 bg-white hover:bg-slate-50 hover:border-slate-300 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-slate-500 transition-all"
+            >
+              <MessageSquare className="w-4 h-4" />
+              Chat with Anomalyse AI
+            </button>
+          </div>
+
+          <div className="mt-8 pt-6 border-t border-slate-100">
+            <p className="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-3">Demo Credentials</p>
+            <button
+              type="button"
+              onClick={() => {
+                setEmail('analyst@anomalyse.bank');
+                setPassword('password123');
+              }}
+              className="w-full flex items-center justify-between p-3 rounded-lg border border-slate-200 bg-slate-50 hover:bg-slate-100 transition-colors group"
+            >
+              <div className="text-left">
+                <p className="text-xs font-medium text-slate-900">analyst@anomalyse.bank</p>
+                <p className="text-xs text-slate-500">password123</p>
+              </div>
+              <span className="text-xs font-semibold text-blue-600 group-hover:underline">Auto-fill</span>
+            </button>
+          </div>
 
           <div className="mt-6 text-center">
             <p className="text-xs text-slate-400">

@@ -14,13 +14,14 @@ export interface Transaction {
   user_id: string;
   city: string;
   category: string;
-  riskScore: number;
-  status: 'Safe' | 'Suspicious' | 'Review' | 'Review Required' | 'Approved' | 'Confirmed Fraud' | 'Escalated';
+  status: 'Safe' | 'Suspicious' | 'Fake/Suspicious';
+  riskScore?: number;
   flag_type?: string;
   flag_reason?: string;
   flags?: Array<{ type: string; reason: string }>;
   time_since_last_txn?: number;
   distance_km?: number;
+  notification_sent?: boolean;
 }
 
 export interface FraudMetrics {
@@ -29,4 +30,12 @@ export interface FraudMetrics {
   overallRiskScore: number;
   fraudTrend: Array<{ date: string; fraudCount: number; safeCount: number }>;
   riskDistribution: Array<{ name: string; value: number }>;
+  averageAmount?: number;
+  fraudPercent?: number;
+  safePercent?: number;
+  mostActiveUser?: string | null;
+  fraudTypeCounts?: { [key: string]: number };
+  topUsers?: Array<{ user_id: string; count: number }>;
+  avgAmountFraud?: number;
+  avgAmountSafe?: number;
 }

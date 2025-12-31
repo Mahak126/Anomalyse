@@ -60,3 +60,8 @@ def test_get_metrics_authorized():
     data = response.json()
     assert "totalTransactions" in data
     assert "overallRiskScore" in data
+    # New metrics
+    assert "topUsers" in data
+    assert "avgAmountFraud" in data
+    assert "avgAmountSafe" in data
+    assert isinstance(data["topUsers"], list)

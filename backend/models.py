@@ -25,3 +25,15 @@ class Transaction(Base):
     flag_type: Mapped[str] = mapped_column(String(1000), nullable=True) # JSON or string
     flag_reason: Mapped[str] = mapped_column(String(1000), nullable=True)
     is_training_data: Mapped[bool] = mapped_column(Boolean, default=False)
+    notification_sent: Mapped[bool] = mapped_column(Boolean, default=False)
+
+class AuditLog(Base):
+    __tablename__ = "audit_logs"
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
+    timestamp: Mapped[datetime] = mapped_column(DateTime, default=datetime.utcnow, index=True)
+    user_email: Mapped[str] = mapped_column(String(255))
+    action: Mapped[str] = mapped_column(String(100))
+    resource: Mapped[str] = mapped_column(String(100))
+    resource_id: Mapped[str] = mapped_column(String(255), nullable=True)
+    details: Mapped[str] = mapped_column(String(2000), nullable=True)
+

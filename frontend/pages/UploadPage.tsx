@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { UploadCloud, FileText, CheckCircle2, AlertCircle } from 'lucide-react';
+import { UploadCloud, FileText, CheckCircle2, AlertCircle, Download } from 'lucide-react';
 import { uploadService } from '../services/uploadService';
 
 const UploadPage: React.FC = () => {
@@ -51,10 +51,20 @@ const UploadPage: React.FC = () => {
           </div>
           
           <h3 className="text-lg font-medium text-slate-900">Upload Transaction CSV</h3>
-          <p className="text-slate-500 text-sm mt-1 mb-6 text-center">
+          <p className="text-slate-500 text-sm mt-1 mb-4 text-center">
             Drag and drop your file here, or click to browse. <br/>
             Supported format: .csv
           </p>
+
+          <a 
+            href="https://drive.google.com/drive/folders/13NxFgHVNYKJAydSyvts_yTOqJNbNu4pf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mb-8 flex items-center gap-2 px-4 py-2 bg-blue-600 text-white rounded-full text-sm font-semibold hover:bg-blue-700 transition-all shadow-md hover:shadow-lg transform hover:-translate-y-0.5"
+          >
+            <Download className="w-4 h-4" />
+            demo CSV file
+          </a>
 
           <input
             type="file"
